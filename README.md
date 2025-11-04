@@ -125,7 +125,7 @@ MIT License - feel free to use this project for personal or commercial purposes.
 
 ## 👤 Author
 
-Your Name - [GitHub](https://github.com/yourusername)
+Arihant Jain - [GitHub](https://github.com/Arihant-jainn)
 
 ## 🙏 Acknowledgments
 
